@@ -1,0 +1,10 @@
+body{
+    color:black;
+    font-size: large;
+    background-image: url('https://media.istockphoto.com/vectors/contact-us-3d-speech-bubble-sign-vector-id1156404259?k=20&m=1156404259&s=612x612&w=0&h=WJotjzJZoJ1q8Jh8HS9oTeiAZ60th6bZ58h5I-DCKqg=');
+    background-size: cover; 
+}
+h1{
+    padding: 1rem;
+    
+}
